@@ -1,0 +1,10 @@
+﻿  LAB_2_ZAD.cpp
+C:\Users\SyperStudent\Desktop\LAB_2_ZAD\LAB_2_ZAD.cpp(53,30): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\SyperStudent\Desktop\LAB_2_ZAD\LAB_2_ZAD.cpp(141,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\SyperStudent\Desktop\LAB_2_ZAD\LAB_2_ZAD.cpp(243,19): warning C4244: "inicjowanie": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\SyperStudent\Desktop\LAB_2_ZAD\LAB_2_ZAD.cpp(135): warning C4715: "SortowanieWedlug::operator()”: niewszystkie ścieżki kodu zwracają wartość
+  LAB_2_ZAD.vcxproj -> C:\Users\SyperStudent\Desktop\LAB_2_ZAD\Debug\LAB_2_ZAD.exe
