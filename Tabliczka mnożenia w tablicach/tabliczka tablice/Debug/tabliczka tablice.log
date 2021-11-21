@@ -1,0 +1,4 @@
+﻿  tabliczka tablice.cpp
+C:\Users\Agnieszka\Desktop\tabliczka tablice\tabliczka tablice\tabliczka tablice.cpp(18,17): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Agnieszka\Desktop\tabliczka tablice\tabliczka tablice\tabliczka tablice.cpp(9,8): warning C4101: "liczba": lokalna zmienna, do której nie istnieje odwołanie
+  tabliczka tablice.vcxproj -> C:\Users\Agnieszka\Desktop\tabliczka tablice\Debug\tabliczka tablice.exe
