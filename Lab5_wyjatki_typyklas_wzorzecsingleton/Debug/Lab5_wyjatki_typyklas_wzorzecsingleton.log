@@ -1,0 +1,6 @@
+﻿  Lab5_wyjatki_typyklas_wzorzecsingleton.cpp
+C:\Users\Agnieszka\Desktop\Lab5_wyjatki_typyklas_wzorzecsingleton\Lab5_wyjatki_typyklas_wzorzecsingleton.cpp(69,21): warning C4244: "inicjowanie": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+C:\Users\Agnieszka\Desktop\Lab5_wyjatki_typyklas_wzorzecsingleton\Lab5_wyjatki_typyklas_wzorzecsingleton.cpp(67): message : podczas kompilowania funkcji składowej „CPojemnik<double>::CPojemnik(int)” klasy klasa szablon
+C:\Users\Agnieszka\Desktop\Lab5_wyjatki_typyklas_wzorzecsingleton\Lab5_wyjatki_typyklas_wzorzecsingleton.cpp(222): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CPojemnik<double>::CPojemnik(int)” funkcji szablon
+C:\Users\Agnieszka\Desktop\Lab5_wyjatki_typyklas_wzorzecsingleton\Lab5_wyjatki_typyklas_wzorzecsingleton.cpp(222): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CPojemnik<double>” klasy klasa szablon
+  Lab5_wyjatki_typyklas_wzorzecsingleton.vcxproj -> C:\Users\Agnieszka\Desktop\Lab5_wyjatki_typyklas_wzorzecsingleton\Debug\Lab5_wyjatki_typyklas_wzorzecsingleton.exe
